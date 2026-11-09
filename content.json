@@ -1,0 +1,206 @@
+{
+  "server": "Strada Reload",
+  "version": "1.0",
+  "updated": "9 novembre 2026",
+  "discord": {
+    "title": "Règlement Discord",
+    "subtitle": "Un espace pour discuter, préparer tes sessions et suivre le projet. Voici les règles pour que tout se passe bien.",
+    "groups": [
+      {
+        "id": "respect",
+        "title": "Respect & sécurité",
+        "summary": "Les mêmes règles de respect s’appliquent à tout le monde.",
+        "rules": [
+          {
+            "id": "respect-joueurs",
+            "title": "Respecter les membres",
+            "text": "Les insultes ciblées, le harcèlement, les menaces et les propos discriminatoires sont interdits. Un désaccord n’autorise pas à s’en prendre à une personne."
+          },
+          {
+            "id": "vie-privee",
+            "title": "Protéger la vie privée",
+            "text": "Ne publie pas les informations personnelles d’un membre, ses conversations privées ou ses photos sans son accord. Le doxxing et les menaces de divulgation sont interdits."
+          },
+          {
+            "id": "contenus",
+            "title": "Partager des contenus adaptés",
+            "text": "Les contenus pornographiques, violents de manière explicite, illégaux ou destinés à choquer n’ont pas leur place ici. N’envoie pas de liens ou fichiers malveillants."
+          },
+          {
+            "id": "identite",
+            "title": "Garder une identité claire",
+            "text": "N’usurpe pas l’identité d’un membre ou du staff. Ton pseudo, ton avatar et ta bio doivent respecter les mêmes règles que tes messages. Respecte aussi les conditions et l’âge minimal requis par Discord."
+          }
+        ]
+      },
+      {
+        "id": "salons",
+        "title": "Messages & salons",
+        "summary": "Un Discord lisible, sans spam ni sollicitations imposées.",
+        "rules": [
+          {
+            "id": "bons-salons",
+            "title": "Utiliser les bons salons",
+            "text": "Lis les indications du salon avant de poster. Les demandes de support passent par les tickets ; les signalements ne se règlent pas dans les discussions publiques."
+          },
+          {
+            "id": "spam",
+            "title": "Éviter le spam",
+            "text": "Pas de flood, de mentions répétées, de messages en boucle ou de perturbation volontaire. Les raids et les envois massifs de messages sont interdits."
+          },
+          {
+            "id": "publicite",
+            "title": "Demander avant de faire de la publicité",
+            "text": "La publicité pour un autre serveur, un service ou un réseau social nécessite l’accord du staff. N’utilise pas la liste des membres pour envoyer des publicités en message privé sans leur accord."
+          },
+          {
+            "id": "vocal",
+            "title": "Respecter les salons vocaux",
+            "text": "Évite les sons saturés, les cris et les nuisances sonores volontaires. N’enregistre ni ne diffuse une conversation privée sans l’accord des personnes concernées."
+          }
+        ]
+      },
+      {
+        "id": "moderation",
+        "title": "Support & modération",
+        "summary": "Expliquer les faits et laisser l’équipe traiter les demandes.",
+        "rules": [
+          {
+            "id": "tickets",
+            "title": "Ouvrir un ticket utile",
+            "text": "Choisis la bonne catégorie et explique ta demande avec ton pseudo et les détails nécessaires. Un seul ticket par problème suffit. Ne communique jamais ton mot de passe ou un code de connexion."
+          },
+          {
+            "id": "preuves",
+            "title": "Fournir des preuves honnêtes",
+            "text": "Pour un signalement, ajoute les éléments disponibles : identifiant du joueur, heure, capture ou clip. Ne fabrique pas de preuve et ne lance pas d’accusations publiques."
+          },
+          {
+            "id": "consignes",
+            "title": "Suivre les consignes du staff",
+            "text": "Respecte les consignes de modération. Si tu contestes une décision, explique calmement ta situation dans un ticket ; ne règle pas le conflit dans les salons publics."
+          },
+          {
+            "id": "sanctions",
+            "title": "Comprendre les sanctions",
+            "text": "Selon la gravité, le contexte et les récidives, un manquement peut entraîner un avertissement, une restriction ou un bannissement. Contourner une sanction avec un autre compte est interdit. Une contestation peut être adressée au staff par ticket."
+          }
+        ]
+      }
+    ]
+  },
+  "ig": {
+    "title": "Règlement en jeu",
+    "subtitle": "Strada Reload est un serveur FiveM PvP. Le combat fait partie du jeu ; la triche et les abus, non.",
+    "groups": [
+      {
+        "id": "integrite",
+        "title": "Intégrité du jeu",
+        "summary": "Des combats qui reposent sur le jeu et les capacités des joueurs.",
+        "rules": [
+          {
+            "id": "triche",
+            "title": "Aucune triche",
+            "text": "Les cheats, injecteurs, scripts de visée, wallhacks et outils donnant un avantage interdit sont prohibés. Ne partage pas et ne fais pas la promotion de ces outils sur les espaces du serveur."
+          },
+          {
+            "id": "modifications",
+            "title": "Pas de modification avantageuse",
+            "text": "Les macros de tir et les modifications qui retirent des obstacles, rendent des joueurs anormalement visibles ou altèrent les mécaniques de combat sont interdites. En cas de doute sur un réglage, demande au staff avant de l’utiliser."
+          },
+          {
+            "id": "exploits",
+            "title": "Ne pas exploiter les bugs",
+            "text": "N’utilise pas un défaut de collision, une duplication, une faille d’économie ou une animation détournée pour obtenir un avantage. Arrête l’action et signale le problème ; ne diffuse pas la méthode publiquement."
+          },
+          {
+            "id": "comptes",
+            "title": "Assumer son compte",
+            "text": "Tu es responsable de ce qui est fait avec ton compte. N’utilise pas de compte de remplacement pour contourner un bannissement ou une restriction."
+          }
+        ]
+      },
+      {
+        "id": "combat",
+        "title": "Combat & fair-play",
+        "summary": "Respecter le cadre annoncé dans chaque mode ou événement.",
+        "rules": [
+          {
+            "id": "cadre-pvp",
+            "title": "Respecter le cadre PvP",
+            "text": "Le PvP est autorisé selon les règles du mode en cours. Respecte les indications en jeu et les consignes annoncées pour chaque événement."
+          },
+          {
+            "id": "zones-protegees",
+            "title": "Respecter les zones protégées",
+            "text": "Ne tue pas et ne provoque pas volontairement un joueur dans une zone explicitement indiquée comme protégée. Ne campe pas une sortie ou un point d’apparition pour empêcher les joueurs de reprendre la partie."
+          },
+          {
+            "id": "deconnexion",
+            "title": "Ne pas fuir un combat par déconnexion",
+            "text": "Ne te déconnecte pas et n’utilise pas une commande pour éviter volontairement les conséquences d’un combat en cours. Après un crash réel, reconnecte-toi dès que possible et contacte le staff si la situation nécessite son intervention."
+          },
+          {
+            "id": "equipes",
+            "title": "Respecter les limites d’équipe",
+            "text": "Pendant un mode ou un événement avec une limite de groupe, respecte le nombre de joueurs annoncé. Les alliances visant à contourner cette limite et l’aide volontaire à une équipe adverse sont interdites."
+          }
+        ]
+      },
+      {
+        "id": "communaute-ig",
+        "title": "Comportement en jeu",
+        "summary": "Gagner ou perdre sans rendre la partie invivable pour les autres.",
+        "rules": [
+          {
+            "id": "respect-vocal",
+            "title": "Respecter les joueurs",
+            "text": "Les menaces, le harcèlement, les propos discriminatoires et les attaques sur la vie privée sont interdits, en vocal comme à l’écrit. Une défaite ou une provocation ne les justifie pas."
+          },
+          {
+            "id": "nuisances",
+            "title": "Ne pas perturber le serveur",
+            "text": "Pas de spam vocal ou textuel, de sabotage volontaire ou d’action visant à faire ralentir ou planter le serveur. L’utilisation normale des mécaniques de jeu reste distincte d’une nuisance organisée."
+          },
+          {
+            "id": "echanges",
+            "title": "Pas de commerce non autorisé",
+            "text": "Les ventes entre joueurs d’argent, d’objets ou de services en jeu contre de l’argent réel sont interdites. Ne propose pas de services de triche ou de contournement de sanction."
+          },
+          {
+            "id": "evenements",
+            "title": "Suivre les consignes d’événement",
+            "text": "Les règles spécifiques annoncées par l’équipe s’appliquent pendant un événement. Écoute les consignes et adresse tes questions avant le début si un point n’est pas clair."
+          }
+        ]
+      },
+      {
+        "id": "signalements",
+        "title": "Signalements & sanctions",
+        "summary": "Un problème se traite avec des faits, sans vengeance en jeu.",
+        "rules": [
+          {
+            "id": "signaler",
+            "title": "Signaler avec des éléments concrets",
+            "text": "Ouvre un ticket sur Discord avec les identifiants utiles, l’heure et un clip ou une capture si tu en disposes. Évite les accusations dans le chat et les règlements de compte."
+          },
+          {
+            "id": "litiges",
+            "title": "Ne pas se faire justice soi-même",
+            "text": "Un joueur suspect ne t’autorise pas à tricher ou à enfreindre les règles en retour. Préserve tes preuves et laisse le staff examiner les faits."
+          },
+          {
+            "id": "decisions",
+            "title": "Respecter une intervention du staff",
+            "text": "Pendant une intervention, coopère et explique les faits sans insultes. Tu peux contester ensuite la décision dans un ticket. Ne transmets jamais tes mots de passe ni tes codes de connexion."
+          },
+          {
+            "id": "sanctions-ig",
+            "title": "Sanctions et recours",
+            "text": "La sanction dépend de la gravité, du contexte et des récidives : avertissement, restriction ou bannissement. Les abus de bugs peuvent aussi entraîner le retrait des gains concernés. Un recours peut être demandé par ticket, sans garantie de changement de décision."
+          }
+        ]
+      }
+    ]
+  }
+}
